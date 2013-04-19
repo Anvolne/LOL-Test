@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LoLMod",
+  "name": "LoL Mod",
+  "description": "My first mod!",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "TheGamersLegacy"
+  ],
+  "credits": "By TheGamersLegacy",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "depencies": [
+  ]
+}
+]
+  
